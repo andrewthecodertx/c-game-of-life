@@ -4,8 +4,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define WINDOW_WIDTH 800
-#define WINDOW_HEIGHT 600
+#define WINDOW_WIDTH 1024
+#define WINDOW_HEIGHT 768
 #define CELL_SIZE 5
 #define GRID_WIDTH (WINDOW_WIDTH / CELL_SIZE)
 #define GRID_HEIGHT (WINDOW_HEIGHT / CELL_SIZE)
